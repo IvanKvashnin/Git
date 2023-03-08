@@ -6,5 +6,6 @@ public class Main {
         System.out.println(x.equals(y));
         System.out.println(x.equals(y));
         System.out.println(x.equals(y));
+        System.out.println(x.equals(y));
     }
 }
