@@ -5,5 +5,6 @@ public class Main {
         String y = new String("test 2");
         System.out.println(x.equals(y));
         System.out.println(x.equals(y));
+        System.out.println(x.equals(y));
     }
 }
