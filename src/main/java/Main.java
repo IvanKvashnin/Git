@@ -4,5 +4,6 @@ public class Main {
         x = "test 2";
         String y = new String("test 2");
         System.out.println(x.equals(y));
+        System.out.println(x.equals(y));
     }
 }
